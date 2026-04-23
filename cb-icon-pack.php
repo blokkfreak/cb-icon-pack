@@ -67,11 +67,11 @@ final class CB_Icon_Pack {
 	private const VARIANTS = [
 		'line'  => [
 			'label'     => 'CB Line Icons',
-			'labelIcon' => 'cb-icon cb-icon-line-building-house',
+			'labelIcon' => 'cb-icon cb-icon-line-vegetable-carrot',
 		],
 		'solid' => [
 			'label'     => 'CB Solid Icons',
-			'labelIcon' => 'cb-icon cb-icon-solid-hand-like',
+			'labelIcon' => 'cb-icon cb-icon-solid-vegetable-carrot',
 		],
 	];
 
