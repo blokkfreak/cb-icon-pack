@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Creativebowl Icon-Pack
  * Description: Custom SVG Icon Pack for Elementor Pro (Line + Solid variants)
- * Version: 2.0.0
+ * Version: 2.0.1
  * Requires at least: 6.0
  * Tested up to: 6.7
  * Requires Plugins: elementor-pro
@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'CB_ICON_PACK_VERSION', '2.0.0' );
+define( 'CB_ICON_PACK_VERSION', '2.0.1' );
 define( 'CB_ICON_PACK_PATH', plugin_dir_path( __FILE__ ) );
 define( 'CB_ICON_PACK_URL', plugin_dir_url( __FILE__ ) );
 
