@@ -1,0 +1,14 @@
+# Kein Token, keine lokalen Konfigurationsdateien
+*.local.php
+.env
+
+# Composer (wird direkt mitgeliefert, nicht nötig)
+/vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arbeitsordner
+/icon_full/
